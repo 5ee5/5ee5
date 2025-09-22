@@ -26,7 +26,7 @@ I'm a student developer always excited to learn and build cool things with Pytho
 - [Python](https://github.com/5ee5/Python) — My collection of Python programs/useful tools.
 - [5ee5dev](https://github.com/5ee5/5ee5dev) — Personal website.
 - [Hyprland](https://github.com/5ee5/Hyprland) — My Hyprland configs for linux.
-- [Spotistats]([https://github.com/5ee5/Spotistats] - My spotify track fetcher
+- [Spotistats](https://github.com/5ee5/Spotistats) - My spotify track fetcher
 
 ---
 
