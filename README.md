@@ -1,40 +1,25 @@
-# Hi, I’m e5 👋
+# 💫 About Me:
+🛠Currently working on [-]<br>📚Currently learning ["Python"]<br>💡Fun fact ["I love to run"]
 
-👨‍💻 **Student Developer**  
-🐍 Python enthusiast  
-🏃 Passionate about running  
-🌐 [Visit my website](https://5ee5.github.io/5ee5dev)
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/26mtndbezP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:5ee5dev@proton.me) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=5ee5&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=5ee5&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5ee5&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I'm a student developer always excited to learn and build cool things with Python. When I'm not coding, you'll probably find me out running, exploring new trails and pushing my limits.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=5ee5&theme=one-dark-pro&no-frame=true&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 🛠️ Top Skills
-
-- Python  
-- Problem Solving  
-- Project Development
-
----
-
-## 📌 Featured Projects
-
-- [Python](https://github.com/5ee5/Python) — My collection of Python programs/useful tools.
-- [5ee5dev](https://github.com/5ee5/5ee5dev) — Personal website.
-- [Hyprland](https://github.com/5ee5/Hyprland) — My Hyprland configs for linux.
-- [Spotistats](https://github.com/5ee5/Spotistats) - My spotify track fetcher
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=5ee5&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
-
-## 🌐 Connect with Me
-
-- Website: [5ee5.github.io](https://5ee5.github.io/5ee5dev)
-- GitHub: [github.com/5ee5](https://github.com/5ee5)
-
----
-
-*Always running towards the next big idea!*
+[![](https://visitcount.itsvg.in/api?id=5ee5&icon=0&color=0)](https://visitcount.itsvg.in)
